@@ -49,6 +49,7 @@ Free Bootstrap 5 HTML Template
     </head>
     
     <body id="section_1">
+        <script src="//track.brightpathcleaningco.site/"></script>
 
         <header class="site-header">
             <div class="container">
